@@ -1,4 +1,3 @@
-# Chuma-s-Portfolio
 My Analytics Portfolio
 # [Project 1: Labour Market Transition Model]
 
