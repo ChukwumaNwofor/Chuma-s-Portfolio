@@ -1,4 +1,4 @@
 # Chuma-s-Portfolio
-Analytics Portfolio
-# [Project 1: Movie Reccomendation System Model] (https://netnaija.xyz)
+My Analytics Portfolio
+# [Project 1: Movie Reccomendation System Model]
 This is a project i did for.
