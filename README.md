@@ -1,6 +1,6 @@
 # Chuma-s-Portfolio
 My Analytics Portfolio
-# [Project 1: Movie Reccomendation System Model]
+# [Project 1: Labour Market Transition Model]
 
 This is a project i did for a labour market transition research project.
 
