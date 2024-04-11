@@ -6,4 +6,6 @@ This is a project i did for a labour market transition research project.
 * Data was taken from a survey project that solicited future employment sector choices of respondents
 * The models employed in this analyis were: logistic and mincerian models
 * The project's working paper is published [here](https://research.helpmaninstitute.org/research/2024/employment-choice-analysis/)
-* A najor finding showed that majority of the FCT Labour Force plan to become employers in 5 years' time.
+* A major finding showed that majority of the FCT Labour Force plan to become employers in 5 years' time.
+
+# [Project 2: Decent Work and Unemployment Data Visualization]
